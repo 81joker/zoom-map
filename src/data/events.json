@@ -1,0 +1,101 @@
+[
+  {
+    "id": "abu-dhabi-2026",
+    "title": "Abu Dhabi Air Race",
+    "description": "Season opener with technical high-speed turns over the waterfront circuit.",
+    "address": "Corniche Road, Abu Dhabi",
+    "country": "United Arab Emirates",
+    "coordinates": { "lat": 24.4667, "lng": 54.3667 },
+    "category": "A"
+  },
+  {
+    "id": "berlin-2026",
+    "title": "Berlin City Race",
+    "description": "Urban race weekend focused on speed consistency and precision flying.",
+    "address": "Tempelhofer Feld, Berlin",
+    "country": "Germany",
+    "coordinates": { "lat": 52.4736, "lng": 13.4039 },
+    "category": "B"
+  },
+  {
+    "id": "london-2026",
+    "title": "London River Challenge",
+    "description": "Mid-season competition with changing weather and tactical route control.",
+    "address": "Greenwich Peninsula, London",
+    "country": "United Kingdom",
+    "coordinates": { "lat": 51.4999, "lng": -0.0106 },
+    "category": "A"
+  },
+  {
+    "id": "madrid-2026",
+    "title": "Madrid Open Skies",
+    "description": "A technical track with rapid altitude transitions and narrow time gaps.",
+    "address": "Cuatro Vientos, Madrid",
+    "country": "Spain",
+    "coordinates": { "lat": 40.3707, "lng": -3.7846 },
+    "category": "B"
+  },
+  {
+    "id": "rome-2026",
+    "title": "Rome Classic Flight Series",
+    "description": "Historic venue race focused on smooth control and clean gate execution.",
+    "address": "Lido di Ostia, Rome",
+    "country": "Italy",
+    "coordinates": { "lat": 41.7326, "lng": 12.2765 },
+    "category": "A"
+  },
+  {
+    "id": "istanbul-2026",
+    "title": "Istanbul Bosphorus Sprint",
+    "description": "Cross-continental race format with short intervals and high pressure laps.",
+    "address": "Sarayburnu Coast, Istanbul",
+    "country": "Turkey",
+    "coordinates": { "lat": 41.0138, "lng": 28.9784 },
+    "category": "B"
+  },
+  {
+    "id": "tokyo-2026",
+    "title": "Tokyo Bay Finals",
+    "description": "Final-stage event where pilots compete for championship points.",
+    "address": "Odaiba Marine Park, Tokyo",
+    "country": "Japan",
+    "coordinates": { "lat": 35.6298, "lng": 139.7753 },
+    "category": "A"
+  },
+  {
+    "id": "sydney-2026",
+    "title": "Sydney Harbor Cup",
+    "description": "Fast race layout with long approach lines and aggressive corner exits.",
+    "address": "Mrs Macquarie's Point, Sydney",
+    "country": "Australia",
+    "coordinates": { "lat": -33.8568, "lng": 151.2153 },
+    "category": "B"
+  },
+  {
+    "id": "vienna-2026",
+    "title": "Vienna Skyline Challenge",
+    "description": "Precision-focused race event with balanced speed and control segments.",
+    "address": "Donauinsel, Vienna",
+    "country": "Austria",
+    "coordinates": { "lat": 48.2082, "lng": 16.3738 },
+    "category": "A"
+  },
+  {
+    "id": "salzburg-2026",
+    "title": "Salzburg Alpine Circuit",
+    "description": "Mountain-adjacent course featuring tight turns and altitude management.",
+    "address": "Messezentrum, Salzburg",
+    "country": "Austria",
+    "coordinates": { "lat": 47.8095, "lng": 13.055 },
+    "category": "B"
+  },
+  {
+    "id": "budapest-2026",
+    "title": "Budapest Danube Race",
+    "description": "High-tempo city race with technical gate transitions above the river line.",
+    "address": "Duna-part, Budapest",
+    "country": "Hungary",
+    "coordinates": { "lat": 47.4979, "lng": 19.0402 },
+    "category": "A"
+  }
+]
